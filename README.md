@@ -11,17 +11,17 @@ game development**.
 
 ## 🎮 Game Preview
 
--   Control the snake using arrow keys\
--   Eat apples to grow longer\
+-   Control the snake using arrow keys
+-   Eat apples to grow longer
 -   Avoid hitting walls or yourself
 
 ------------------------------------------------------------------------
 
 ## 🛠 Tech Stack
 
--   **Language:** Java\
--   **GUI:** AWT & Swing\
--   **Game Loop:** `javax.swing.Timer`\
+-   **Language:** Java
+-   **GUI:** AWT & Swing
+-   **Game Loop:** `javax.swing.Timer`
 -   **Libraries:** None (Pure Java)
 
 ------------------------------------------------------------------------
