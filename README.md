@@ -87,28 +87,28 @@ java com.zetcode.Snake
 
 ## 🧠 Game Concepts Used
 
--   Game loop using Timer\
--   Object-oriented programming\
--   Keyboard input handling\
--   Collision detection\
--   2D graphics rendering\
+-   Game loop using Timer
+-   Object-oriented programming
+-   Keyboard input handling
+-   Collision detection
+-   2D graphics rendering
 -   Random food generation
 
 ------------------------------------------------------------------------
 
 ## 💥 Game Over Conditions
 
--   Snake hits wall\
+-   Snake hits wall
 -   Snake hits itself
 
 ------------------------------------------------------------------------
 
 ## 🚀 Possible Improvements
 
--   Add score display\
--   Add restart button\
--   Increase speed with level\
--   Add sound effects\
+-   Add score display
+-   Add restart button
+-   Increase speed with level
+-   Add sound effects
 -   Store high score
 
 ------------------------------------------------------------------------
@@ -117,9 +117,9 @@ java com.zetcode.Snake
 
 This project helps in understanding:
 
--   Java Swing GUI\
--   Event-driven programming\
--   Real-time game logic\
+-   Java Swing GUI
+-   Event-driven programming
+-   Real-time game logic
 -   Basic animation techniques
 
 ------------------------------------------------------------------------
@@ -127,4 +127,6 @@ This project helps in understanding:
 ## 📌 Author
 
 **Sravan**\
-Java Game Development Project
+B.Tech Student
+
+
